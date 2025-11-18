@@ -32,4 +32,4 @@ python -m PyInstaller --windowed --onefile --icon=pic/app3.ico --name=Base64 mai
 ---
 
 ## demo
-![image](https://github.com/cjims/pic/demo.png)
+![image](https://github.com/cjims/MedImage-base64/tree/main/pic/demo.png)
