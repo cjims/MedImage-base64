@@ -13,6 +13,13 @@
 
 ---
 
+## 安裝環境
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ### **PNG 轉 ICO**
 
 執行以下指令：
